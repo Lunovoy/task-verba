@@ -1,0 +1,9 @@
+port: 8080
+
+db:
+  host: "containers-us-west-207.railway.app"
+  port: "7893"
+  username: "postgres"
+  password: "xkG54DsCsbe3vtOUFQKC"
+  dbname: "railway"
+  sslmode: "disable"
